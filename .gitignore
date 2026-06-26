@@ -1,0 +1,20 @@
+# Dataset — demasiado grande para GitHub (59 MB). Se descarga con 02_entrenamiento.py
+Incidentes-Viales-Medellin.csv
+
+# Script antiguo monolítico — reemplazado por los scripts numerados
+01_exploracion_vial.py
+
+# Configuración local de herramientas de desarrollo
+settings.local.json
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
